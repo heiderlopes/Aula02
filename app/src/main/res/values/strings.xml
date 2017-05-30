@@ -10,7 +10,5 @@
     <string name="barcelona">Barcelona</string>
     <string name="real_madrid">Real Madrid</string>
     <string name="botao_cadastrar">Register</string>
-    <string name="confirmacao_cadastro">
-        Olá, %1$s parabéns por torcer pelo %2$s.
-    </string>
+    <string name="confirmacao_cadastro">Congratulations</string>
 </resources>
