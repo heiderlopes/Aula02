@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="barcelona">Barcelona</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="desenvolvido_por">Desenvolvido por S2</string>
+    <string name="hint_idade">Idade</string>
+    <string name="hint_nome">Nome</string>
+    <string name="palmeiras">Palmeiras</string>
+    <string name="real_madrid">Real Madrid</string>
+    <string name="selecione_time">Selecione o time</string>
+    <string name="titulo">Time S2</string>
+    <string name="confirmacao_cadastro">"Olá, %1$s parabéns por torcer pelo %2$s. "</string>
+</resources>

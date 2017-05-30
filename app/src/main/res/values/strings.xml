@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Aula02</string>
+    <string name="titulo">Team S2</string>
+    <string name="desenvolvido_por">Developed by S2</string>
+    <string name="hint_nome">Name</string>
+    <string name="hint_idade">Age</string>
+
+    <string name="selecione_time">Select team</string>
+    <string name="palmeiras">Palmeiras</string>
+    <string name="barcelona">Barcelona</string>
+    <string name="real_madrid">Real Madrid</string>
+    <string name="botao_cadastrar">Register</string>
+    <string name="confirmacao_cadastro">
+        Olá, %1$s parabéns por torcer pelo %2$s.
+    </string>
+</resources>
